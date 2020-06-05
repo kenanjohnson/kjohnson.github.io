@@ -37,8 +37,7 @@ img {
 }
 
 #nav {
-	float: left;
-	width: 12em;
+	display: inline;
 }
 
 ul {
