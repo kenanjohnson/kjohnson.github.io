@@ -13,19 +13,11 @@ header {
 body {
 	font-family: Arial, Helvetica;
 }
-footer {
-	position: absolute;
-	clear: both;
-	bottom: 0px;
-	width: 100%;
-	text-align: center;
-	border-top: solid 2px;
-	padding: 1em;
-	font-size: 0.70em;
-}
+
 a:hover {
 	text-decoration: overline underline;
 }
+
 a:active {
 }
 
@@ -83,4 +75,8 @@ li a:hover {
 	margin: 0em 0.5em 0em 0.5em;
 	line-height: 1.8;
 	color: #000000;
+}
+
+#paragraph:aboutme {
+
 }
