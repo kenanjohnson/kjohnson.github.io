@@ -12,7 +12,7 @@ permalink: /aboutme/
   
   <body>
         <p>
-		I am a third year at RIT but I changed my major this semester from Computer Enginnering Technology to 
+		I am a recent RIT graduate but I changed my major this semester from Computer Enginnering Technology to 
 		Digital Humanities and Social Sciences. Over the summer I work at a camp for adults and children
 		with intellectual and developmental disorders. This summer will be my second year working there.
 		I have Crohn's Diease which is a chronic disease that affects my digestive system. I enjoy playing
