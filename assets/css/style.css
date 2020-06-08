@@ -6,8 +6,7 @@
 
 .name {
 	font-family: 'Open Sans', sans-serif;
-	text-align: left;
-	font-weight: bold;
+	text-align: right;
 	font-size: 200%;
 	display: block;
 	color: #eeeeee;
@@ -23,7 +22,7 @@ a:hover {
 }
 
 #aboutme {
-	text-align: justify;
+	text-align: left;
 	height: 750px;
 	width: 1100px;
 	margin-left: 12em;
@@ -40,12 +39,14 @@ a:hover {
 .navbar {
 	overflow: hidden;
 	background-color: #333;
+	display: flex;
+	align-items:center;
  }
   
   /* Links inside the navbar */
  .navbar a {
 	float: left;
-	font-size: 16px;
+	font-size: 14px;
 	color: white;
 	text-align: center;
 	padding: 16px 14px 16px 16px;
@@ -60,7 +61,7 @@ a:hover {
   
   /* Dropdown button */
  .dropdown .dropbtn {
-	font-size: 16px;
+	font-size: 14px;
 	border: none;
 	outline: none;
 	color: white;
@@ -70,9 +71,9 @@ a:hover {
 	margin: 0; /* Important for vertical align on mobile phones */
  }
   
-  /* Add a red background color to navbar links on hover */
+  /* Add a blue background color to navbar links on hover */
  .navbar a:hover, .dropdown:hover .dropbtn {
-	background-color: #94ddff;
+	background-color: #63A3EB;
  }
   
   /* Dropdown content (hidden by default) */
@@ -108,4 +109,10 @@ a:hover {
 .summerme {
 	float: left;
 	margin: 10px 16px 16px 892px;
+}
+
+.logo {
+	width:35px;
+	height:35px;
+	vertical-align:middle;
 }
