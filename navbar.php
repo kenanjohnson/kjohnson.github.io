@@ -12,7 +12,7 @@
 			<div class="dropdown">
 				<button class="dropbtn">Group Projects</button>
 				<div class="dropdown-content">
-					<a href="ProjectShowcase.php">Projectcase</a>
+					<a href="ProjectShowcase.php">ProjectShowcase</a>
 					<a href="SocialScrapbook.php">Social Scrapbook</a>
 				</div>
 			</div>
